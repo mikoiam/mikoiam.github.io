@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dev and soft stuff</title>
+    <link>https://mikoiam.github.io/tags/</link>
+    <description>Recent content in Tags on Dev and soft stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Michał Kozłowski</copyright>
+    <lastBuildDate>Sun, 30 Sep 2018 16:19:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://mikoiam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://mikoiam.github.io/tags/helloworld/</link>
+      <pubDate>Sun, 30 Sep 2018 16:19:11 +0200</pubDate>
+      
+      <guid>https://mikoiam.github.io/tags/helloworld/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dev and soft stuff</title>
+    <link>https://mikoiam.github.io/posts/</link>
+    <description>Recent content in Posts on Dev and soft stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Michał Kozłowski</copyright>
+    <lastBuildDate>Sun, 30 Sep 2018 16:25:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://mikoiam.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fourth Post</title>
+      <link>https://mikoiam.github.io/posts/fourth-post/</link>
+      <pubDate>Sun, 30 Sep 2018 16:25:36 +0200</pubDate>
+      
+      <guid>https://mikoiam.github.io/posts/fourth-post/</guid>
+      <description>hop1 abc
+hop2 def
+hop3 ghi
+hop4 jkl</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://mikoiam.github.io/posts/third-post/</link>
+      <pubDate>Sun, 30 Sep 2018 16:24:48 +0200</pubDate>
+      
+      <guid>https://mikoiam.github.io/posts/third-post/</guid>
+      <description>Żółć raz dwa trzy</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://mikoiam.github.io/posts/second-post/</link>
+      <pubDate>Sun, 30 Sep 2018 16:23:17 +0200</pubDate>
+      
+      <guid>https://mikoiam.github.io/posts/second-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi luctus, lacus interdum rhoncus dictum, est velit ornare eros, vel commodo turpis risus vel massa. In iaculis massa eu tortor gravida, non suscipit arcu mollis.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://mikoiam.github.io/posts/first-post/</link>
+      <pubDate>Sun, 30 Sep 2018 16:19:11 +0200</pubDate>
+      
+      <guid>https://mikoiam.github.io/posts/first-post/</guid>
+      <description>Hello Hugo world! No more excuses for having no blog or documentation now!</description>
+    </item>
+    
+  </channel>
+</rss>
